@@ -1,0 +1,14 @@
+{
+  "name": "demo-server",
+  "version": "1.0.0",
+  "description": "This is a demo JSON server using ExpressJS",
+  "main": "index.js",
+  "repository": "https://github.com/trongtai37/demo-server.git",
+  "author": "trongtai37",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
